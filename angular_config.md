@@ -11,7 +11,7 @@ In this case we will install node 16.14.0 LTS
 
 -  Now we have nodeJs installed in our home directory, but we need to set path of node16, to make it global.
 -  First make copy of the file ~/.bashrc to have backup, in the case. After open the file ~/.bashrc and add the following lines at the end of the file.
-  ``` bash
+  ```bash
   #Modified PATH
   PATH=~/node16/bin:$PATH
   ```
