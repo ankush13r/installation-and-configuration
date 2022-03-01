@@ -13,10 +13,6 @@ In this case we will install node 16.14.0 LTS
 
 -  First make copy of the file ~/.bashrc to have backup, in the case. After open the file ~/.bashrc and add the following lines at the end of the file.
   ``` bash
-  $ tar -xf 'node-v16.14.0-linux-x64.tar.xz'
-  $ mv 'node-v16.14.0-linux-x64' '~/node16'
-  ```  
- ```bash
   #Modified PATH
   PATH=~/node16/bin:$PATH
   ```
