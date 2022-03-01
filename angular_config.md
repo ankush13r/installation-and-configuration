@@ -1,6 +1,7 @@
 # Install Nodejs and Angular
 
 #### Install nodeJs, if we already have nodeSs, we can skip it.
+
 - Download node from the oficial web https://nodejs.org/es/
 - From the directory of downloads execute following commands.
 In this case we will install node 16.14.0 LTS
