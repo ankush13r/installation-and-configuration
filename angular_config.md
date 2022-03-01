@@ -6,8 +6,8 @@
 - From the directory of downloads execute following commands.
 In this case we will install node 16.14.0 LTS
   ``` bash
-  $ tar -xf 'node-v16.14.0-linux-x64.tar.xz'
-  $ mv 'node-v16.14.0-linux-x64' '~/node16'
+  tar -xf 'node-v16.14.0-linux-x64.tar.xz'
+  mv 'node-v16.14.0-linux-x64' '~/node16'
   ```
 
 - Now we have nodeJs installed in our home directory, but we need to set path of node16, to make it global.  
@@ -19,7 +19,7 @@ In this case we will install node 16.14.0 LTS
     
 - Verify that you have installed node correctly by running the following command.
   ``` bash
-  $ node -v
+  node -v
   ```
   ``` bash
   Output:
